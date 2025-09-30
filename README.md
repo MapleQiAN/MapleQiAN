@@ -66,8 +66,8 @@
 ## 📊 GitHub 一角
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SerendyTech&show_icons=true&theme=rose_pine" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerendyTech&theme=rose_pine" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MapleQiAN&show_icons=true&theme=rose_pine" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MapleQiAN&theme=rose_pine" height="180"/>
 </p>
 
 ---
