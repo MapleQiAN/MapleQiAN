@@ -81,5 +81,6 @@
 ---
 
 📮 **联系我**  
-- Blog: [yourblog.example.com](https://yourblog.example.com)  
-- Email: serendy@proton.me  
+- 技术博客: [uimia.com](https://uimia.com)
+- 思想博客：[z2z4.com](https://z2z4.com)
+- Email: serendylin@outlook.com  
