@@ -12,15 +12,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: 移除冲突的 containerd 包
+      - name: Set up Docker with official script
         run: |
-          sudo apt-get remove -y containerd
-          sudo apt-get update
-      - name: 安装依赖
-        run: |
-            sudo apt-get update
-            sudo apt-get remove -y containerd || true
-            sudo apt-get install -y containerd.io docker.io jq
+          curl -fsSL https://get.docker.com | sudo sh
+          sudo apt-get install -y jq
       # 基础信息（顺带了几个小插件）
       - name: base
         uses: lowlighter/metrics@latest
