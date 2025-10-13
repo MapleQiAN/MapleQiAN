@@ -3,8 +3,8 @@
 name: GitHub Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+#  schedule:
+#    - cron: "0 0 * * *"
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
