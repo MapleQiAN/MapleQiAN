@@ -77,64 +77,6 @@
 
 <tr><td>
 
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Serendy&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Serendy&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Serendy&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                268 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-🌆 Daytime                775 commits         ██████████████░░░░░░░░░░░   57.03 % 
-🌃 Evening                305 commits         ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Tuesday                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Wednesday                213 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Thursday                 242 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Friday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Saturday                 81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Sunday                   197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
- Last Updated on 13/10/2025 02:03:04 UTC
-<!--END_SECTION:waka-->
-
 </td></tr>
 
 </table>
@@ -143,7 +85,6 @@ No Activity Tracked This Week
 <img width="200%" src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/hr.gif" />
 
 <div align="center">
-
 <!-- run 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/man_run.png" width="250" height="250" />
 
