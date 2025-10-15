@@ -2,6 +2,11 @@
 
 name: GitHub Metrics
 
+permissions:
+  contents: read
+  issues: read
+  pull-requests: read
+
 on:
 #  schedule:
 #    - cron: "0 0 * * *"
