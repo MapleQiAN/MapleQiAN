@@ -7,9 +7,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/coding.gif" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -17,15 +17,16 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://twitter.com/MapleQiAN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@MapleQiAN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="https://www.uimia.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=MapleQiAN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <a href="https://wakatime.com/@MapleQiAN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MapleQiAN/MapleQiAN&title=Profile%20Views&edge_flat=false"/></a>&emsp;
 
   </div>
 
@@ -64,6 +65,21 @@
 </td></tr>
 
 <tr><td>
+
+### 🧰 Tech Stack
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/technologist.png" />
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/python.webp" width="40" />
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/js.webp" width="40" />
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/react.webp" width="40" />
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/vue.webp" width="40" />
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/html.webp" width="40" />
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/cssgif.webp" width="40" />
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/github.webp" width="40" />
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/vscode.webp" width="40" />
+</p>
 
 ### 🏢 Work Experience
 
@@ -135,6 +151,9 @@
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
+<!-- 今日诗词 -->
+<div><img src="https://v1.jinrishici.com/all.svg" alt="今日诗词" /><br/></div>
+
 <!-- GitHub 奖杯🏆 -->
 
 <div><img src="https://github-profile-trophy.vercel.app/?username=MapleQiAN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
@@ -151,9 +170,30 @@
   </tr>
 </table>
 
+
+<!-- Star History -->
+<div>
+  <a href="https://star-history.com/#MapleQiAN/MapleQiAN&Date">
+    <img src="https://api.star-history.com/svg?repos=MapleQiAN/MapleQiAN&type=Date" alt="Star History Chart"/>
+  </a>
+</div>
+
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/hr.gif" /><!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/icon.png" /></div>
+</div>
+
+<div align="center">
+<details>
+  <summary>点我展开小彩蛋 🎁</summary>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/pig.gif" width="160" />
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/shin_chan.gif" width="160" />
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/astronaut.png" width="160" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/hi.gif" width="120" />
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/thinking.png" width="120" />
+</details>
 </div>
