@@ -125,7 +125,7 @@
 
 <!-- metrics 基础资料 -->
 
-![GitHub Metrics](https://github.com/MapleQiAN/MapleQiAN/raw/main/github-metrics.svg)
+![GitHub Metrics](https://raw.githubusercontent.com/MapleQiAN/MapleQiAN/main/github-metrics.svg)
 
 
 
@@ -151,11 +151,12 @@
 <div align="center" >
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/mb.png" width="250" height="250" />
-
 <!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" /><br/></div>
 
 <!-- 今日诗词 -->
+
 <div><img src="https://v1.jinrishici.com/all.svg" alt="今日诗词" /><br/></div>
 
 <!-- GitHub 奖杯🏆 -->
