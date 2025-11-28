@@ -73,6 +73,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/python.webp" width="40" />
   &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/js.webp" width="40" />
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
   &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/react.webp" width="40" />
   &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/vue.webp" width="40" />
   &emsp;<img src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/html.webp" width="40" />
@@ -120,13 +121,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MapleQiAN&show_icons=true&theme=rose_pine" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MapleQiAN&theme=rose_pine" height="180"/>
 </p>
-
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/MapleQiAN/MapleQiAN/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-![Metrics](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
+![GitHub Metrics](https://github.com/MapleQiAN/MapleQiAN/raw/main/github-metrics.svg)
+
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
+
 <table>
   <tr>
     <td>
@@ -156,11 +160,11 @@
 
 <!-- GitHub 奖杯🏆 -->
 
-<div><img src="https://github-profile-trophy.vercel.app/?username=MapleQiAN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+
 
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MapleQiAN&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MapleQiAN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+
+
 
 <!-- Wakatime Graph-->
 <table>
